@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\PC_1M\CLionProjects\myFirstCProject Select CMakeLists.txt
