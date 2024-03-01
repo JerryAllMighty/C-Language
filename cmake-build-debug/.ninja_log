@@ -1,0 +1,11 @@
+# ninja log v5
+2	66	7309953302098918	CMakeFiles/myFirstCProject.dir/main.c.obj	1d2f165fb5618d42
+69	141	7309969816731064	myFirstCProject.exe	cc3adc2af4ca0119
+8	89	7309953302338924	CMakeFiles/myFirstCProject.dir/const_variable.c.obj	17b4ece81b798def
+8	61	7309958043322643	CMakeFiles/myFirstCProject.dir/ConstVariable.c.obj	5ebb739186fcbcca
+2	66	7309965292196982	CMakeFiles/myFirstCProject.dir/DataType.c.obj	8e431b20faeda059
+2	68	7309969816040829	CMakeFiles/myFirstCProject.dir/Character.c.obj	45daf2508c882475
+0	116	7309971765275794	build.ninja	fc9a1fcbbbac1ec6
+5	62	7309971766405789	CMakeFiles/myFirstCProject.dir/Character.c.obj	45daf2508c882475
+2	78	7309971766575808	CMakeFiles/myFirstCProject.dir/Binaries.c.obj	e7d8278b86c95362
+78	151	7309971767265865	myFirstCProject.exe	205559e3d4eda69
